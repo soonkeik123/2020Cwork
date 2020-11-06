@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+#myHeader{
+    background-color: blue;
+    color:white;
+    margin: 25px 25px;
+    padding: 40px;
+    text-align: center;
+}
