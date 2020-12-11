@@ -62,4 +62,7 @@ function checkName() {
     else if(y<18){
         alert("Age is less than 18. You are not an adult!");
     }
-  }
+    else{
+        alert("Submit successfully! Thank You!");
+    }
+}
